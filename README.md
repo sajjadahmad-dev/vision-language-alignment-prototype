@@ -1,4 +1,4 @@
-![OUTCOME](xray1.jpg.jfif)
+![OUTCOME](outcome1.png)
 
 # Vision–Language Prompt Sensitivity Prototype
 
